@@ -1,6 +1,6 @@
 # Creepy Tracker Client for Unity3D
 
-A brief description
+A brief description of the creysjfs tackers
 
 ## Prerequisites
 
