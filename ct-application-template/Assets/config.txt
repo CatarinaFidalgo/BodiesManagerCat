@@ -1,0 +1,9 @@
+
+
+setup.address=192.168.0.106
+tracker.listen.port=5001
+tracker.broadcast.port=5002
+tracker.surface.request.port=5001
+tracker.surface.listener.port=5010
+client.avatar.listen.port=5011
+sensor.listen.port=5007
